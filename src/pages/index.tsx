@@ -1,5 +1,7 @@
+import { Heading } from "@izuka/react";
+
 export default function Home() {
   return (
-    <h1>Test</h1>
+    <Heading as="h1">Hello Heading</Heading>
   )
 }
