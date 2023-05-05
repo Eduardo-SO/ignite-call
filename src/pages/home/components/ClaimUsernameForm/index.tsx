@@ -36,7 +36,7 @@ export function ClaimUsernameForm() {
         <TextInput
           size="sm"
           prefix="izuka.com/"
-          placeholder="seu-usuário"
+          placeholder="seu-usuario"
           {...register('username')}
         />
         <Button size="sm" type="submit">
